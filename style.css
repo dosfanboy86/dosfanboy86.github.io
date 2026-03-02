@@ -24,7 +24,7 @@ p, li {
 
 .m2 {
     display: flex;   
-    background-color: dimgray;
+    background-color: #454545;
 }
 
 .m1 {
@@ -46,7 +46,7 @@ img {
 }
 
 a {
-  color: aquamarine;
+  color: yellow;
 }
 
 code {
