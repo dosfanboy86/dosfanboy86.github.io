@@ -1,12 +1,12 @@
 html {
     font-family: "Verdana", sans-serif;
-    background-color: white;
+    background-color: black;
 }
 
 h1 {
     font-size: 1rem;
-    background-color: aquamarine;
-    color: navy;
+    background-color: maroon;
+    color: lemonchiffon;
     padding: 1em;
     margin-bottom: 0.5em;
 }
@@ -14,7 +14,7 @@ h1 {
 p, li {
     letter-spacing: 1px;
     font-size: 0.8rem;
-    color: black;
+    color: honeydew;
 }
 
 .m3 {
@@ -24,7 +24,7 @@ p, li {
 
 .m2 {
     display: flex;   
-    background-color: lemonchiffon;
+    background-color: dimgray;
 }
 
 .m1 {
@@ -46,7 +46,7 @@ img {
 }
 
 a {
-  color: blue;
+  color: aquamarine;
 }
 
 code {
